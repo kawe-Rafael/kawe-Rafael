@@ -26,9 +26,9 @@
 
 <p>📫 **Vamos nos conectar!**</p>
 <ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/kawe-rafael/" target="_blank">Kawe Rafael</a></li>
-  <li>GitHub: <a href="https://github.com/kawe-Rafael" target="_blank">kawe-Rafael</a></li>
-  <li>Twitter: <a href="https://twitter.com/kawe_rafael" target="_blank">kawe_rafael</a></li>
+  <li>LinkedIn:<a href="https://www.linkedin.com/in/kawe-rafael/" target="_blank">Kawe Rafael</a></li>
+  <li>GitHub:<a href="https://github.com/kawe-Rafael" target="_blank">Kawe-Rafael</a></li>
+ <li>instagram:<a href="https://www.instagram.com/o.kawe_rafael/">Kawe_Rafael</a></li>
 </ul>
 
 <hr>
